@@ -1,4 +1,4 @@
-<h1 >Hi, I'm Crystal!</h1>
+<h1> 🧠 About Me</h1>
 <h3 > I am a recent graduate from Queen's University with a Bachelor's degree in Honours Computer Science with a focus in Aritificial Intelligence.</h3>
 
 - 🔭 I’m currently working on an **Autonomous Research Assistant.**
