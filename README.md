@@ -1,6 +1,6 @@
-<h1>🧠 About Me</h1>
+<h1>Hi, I'm Crystal!</h1>
 
-<h3>I’m a recent graduate from Queen's University with a Bachelor’s degree in Honours Computer Science, specializing in Artificial Intelligence.</h3>
+<h3>I am a recent graduate from Queen's University with a Bachelor’s degree in Honours Computer Science, specializing in Artificial Intelligence.</h3>
 
 - 🔭 I’m currently working on an **Autonomous Research Assistant**.
 - 🌱 I’m currently learning **C++, C#, and Kubernetes**.
